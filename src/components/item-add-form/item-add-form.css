@@ -1,0 +1,21 @@
+.item-add-form{
+  margin-bottom: 0.7vw;
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  justify-content: space-between; 
+  /* background-color: black; */
+}
+.addItem{
+  /* width: 100px; */
+  margin-left: 3px;
+  /* background-color: black; */
+}  
+.form-control{
+  /* background-color: black; */
+}
+.form-control:focus{
+  /* background-color: black; */
+  /* border:cornflowerblue 3px solid; */
+  box-shadow: rgb(0, 65, 187) 0px 0px 0px 2px 5px;
+}
