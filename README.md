@@ -3,17 +3,19 @@
 <hr>
 
 # Description
-Этот проэкт был создан как список дел, где ты можешь посмотреть выполненые дела, и те которые еще предстоит сделать. Весь проэкт реализирован с помощью **REACT**, по курсу 
- `React + Redux - Профессиональная Разработка UDEMY`.
+
+This project was created as a to-do list, where you can see the completed tasks and those that still need to be done. The entire project was implemented with
+ **REACT**, according to the  
+ `React + Redux - Professional Development UDEMY` course.
 
 # Objective
  The goal of creating this project was to look at various elements and practice in JavaScript and React.
-+ работа с ___React___  ***элементами*** и ***компонентами***
-+ работа с ***JSX***
-+ практика использования ***ключей*** и ***коллекций***
-+ работа с ***обработкой*** ***событий***
-+ работа с ***классами*** и ***фунциями***
-+ реализация ***поиска*** с ***нечуствительным*** **регистром**
++ working with ___React___ ***elements*** and ***components***
++ work with ***JSX***
++ practice of using ***keys*** and ***collections***
++ work with ***processing*** ***events***
++ working with ***classes*** and ***functions***
++ implementation of ***search*** with ***insensitive*** **case**
 
 ```JS
 addItem = (text) => {
@@ -27,18 +29,19 @@ addItem = (text) => {
   }
 ```
 # How to use
-если вы хотите добавить дело к вашему листу напишите это в графе What needs to do  и нажмите клавишу `Add`
+If you want to add a case to your sheet, write it in the `What needs to do` row and press the `Add` key.
 
 ![how to add sth](https://media2.giphy.com/media/SlVGIwrr5ukYJcOgaF/giphy.gif?cid=790b7611314c6b94efed1f6921a401d5380cb84ed3cc7aa6&rid=giphy.gif&ct=g)
 
-если вы хотите посмотреть на активные дела, тоесть те что нужно сделать, кликните по кнопке `Active`
+If you want to look at active cases, that is, those that need to be done, click on the `Active` button.
 
 ![how to see active things](https://media3.giphy.com/media/tb7eKJICLMjYIyJe0q/giphy.gif?cid=790b7611b592655f3a1f9e92a8d956eed00a4a4a9dd73fc0&rid=giphy.gif&ct=g)
 
-если вы хотите посмотреть сделаные дела нажмите кнопу `Done` (Чтоб пометить дело как сделаное, кликните по нем )
+If you want to see the completed tasks, press the `Done` button. (To mark the task as done, click on it).
+
 ![hoe to see done things](https://media0.giphy.com/media/GmWWeuGS5nemUVC2LA/giphy.gif?cid=790b7611e2823e1fd6eb2b3c9918650ff7b573db77f34b64&rid=giphy.gif&ct=g)
 
-если вы хотите найти ваше дело среди кучи других дел, дайте запрос в поле `type to search`(регистр не учитываеться)
+Шf you want to search for a case among a bunch of others, enter a query in the `type to search` field. (case insensitive)
 
 ![how to search sth](https://media2.giphy.com/media/c4SG50SLABZj4BLDuj/giphy.gif?cid=790b76115dfce7bc0ac260be3970c988048e389448e2744d&rid=giphy.gif&ct=g)
 
