@@ -41,7 +41,7 @@ If you want to see the completed tasks, press the `Done` button. (To mark the ta
 
 ![hoe to see done things](https://media0.giphy.com/media/GmWWeuGS5nemUVC2LA/giphy.gif?cid=790b7611e2823e1fd6eb2b3c9918650ff7b573db77f34b64&rid=giphy.gif&ct=g)
 
-Шf you want to search for a case among a bunch of others, enter a query in the `type to search` field. (case insensitive)
+If you want to search for a case among a bunch of others, enter a query in the `type to search` field. (case insensitive)
 
 ![how to search sth](https://media2.giphy.com/media/c4SG50SLABZj4BLDuj/giphy.gif?cid=790b76115dfce7bc0ac260be3970c988048e389448e2744d&rid=giphy.gif&ct=g)
 
